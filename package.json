@@ -30,8 +30,8 @@
   },
   "type": "module",
   "dependencies": {
-    "chrome-aws-lambda": "^3.0.4",
+    "chrome-aws-lambda": "^10.1.0",
     "dayjs": "^1.10.7",
-    "puppeteer-core": "^3.0.4"
+    "puppeteer-core": "^13.7.0"
   }
 }
